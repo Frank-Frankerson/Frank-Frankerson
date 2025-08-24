@@ -8,7 +8,7 @@ _Pronouns: She / Her, but mostly Any will do._
 
 ### Currently Working On
 
-I'm currently a Senior Developer, CX at Penn Foster Group. I work heavily on the technical aspect of sending out communications which includes building personalizes emails at scale, understanding and querying data, managing the Oracle Responsys platform, and more.
+I'm currently a Senior Developer, CX. I work heavily on the technical aspect of sending out communications which includes building personalized emails at scale, understanding and querying data, managing the Oracle Responsys platform, and more.
 
 ### Currently Learning
 
