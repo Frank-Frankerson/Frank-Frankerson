@@ -1,12 +1,12 @@
 ## Yo. I'm Jess 👋
-Question: Why is your username Frank?
-Answer: It's a nickname and I like it. People also call me Bear. Formally I'm Jessica, but it's all the same person.
+**Question:** Why is your username Frank?
+
+**Answer:** It's a nickname and I like it. People also call me Bear. Formally I'm Jessica, but it's all the same person.
 
 **Pronouns:** She / Her, but mostly Any will do.
 
 ### Currently Working On
 I'm currently a Senior Developer, CX at Penn Foster Group. I work heavily on the technical aspect of sending out communications which includes building personalizes emails at scale, understanding and querying data, managing the Oracle Responsys platform, and more.
-
 
 ### Currently Learning
 While I'm not working I am currently taking a Full Stack Developer course to expand my programming skills. I want to move beyond the programming knowledge I work with inside our communication platforms and understand more of the code that our Software Engineers use to build APIs.
