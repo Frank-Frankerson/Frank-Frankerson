@@ -2,10 +2,6 @@
 
 _Pronouns: She / Her, but mostly Any will do._
 
-**Question:** Why is your username Frank?
-
-**Answer:** It's a nickname and I like it. People also call me Bear. Formally I'm Jessica, but it's all the same person.
-
 ### Currently Working On
 
 I'm currently a Senior Developer, CX. I work heavily on the technical aspect of sending out communications which includes building personalized emails at scale, understanding and querying data, managing the Oracle Responsys platform, and more.
